@@ -1,6 +1,6 @@
 # Yeshe Khorlo Cabin Rental Pricing
 
-```Please check for specific [cabin-availability](mailto:retreats@yeshekhorlousa.com) ```
+```Please check for specific cabin availability:``` [cabin-availability](mailto:retreats@yeshekhorlousa.com)
 
 ```Cabins are **not** confirmed until payment is made. to make payment:```
 <https://yeshekhorlousa.com/donations-and-payments/> (select donation type as ```cabin rental```
