@@ -1,6 +1,6 @@
 # Yeshe Khorlo Cabin Rental Pricing
 
-```Please check for specific [cabin20%availability](retreats@yeshekhorlousa.com) ```
+```Please check for specific [cabin20%availability](mailto:retreats@yeshekhorlousa.com) ```
 
 ```Cabins are **not** confirmed until payment is made. to make payment:```
 https://yeshekhorlousa.com/donations-and-payments/ (select donation type as ```cabin rental```
@@ -11,7 +11,7 @@ https://yeshekhorlousa.com/donations-and-payments/ (select donation type as ```c
 - [ ] For 3 weeks: $500
 - [ ] For 1 month: $600
 - [ ] For longer times, please contact the caretaker:
->> [caretaker](retreats@yeshekhorlousa.com)
+>> [caretaker](mailto:retreats@yeshekhorlousa.com)
 
 ## Cabin 2 & 4 - W/Solar and Cabin 3 - no power
 - [ ] For 1 week: $250
@@ -19,5 +19,5 @@ https://yeshekhorlousa.com/donations-and-payments/ (select donation type as ```c
 - [ ] For 3 weeks: $450
 - [ ] For 1 month: $550
 - [ ] For longer times, please contact the caretaker:
->> [caretaker](retreats@yeshekhorlousa.com)
+>> [caretaker](mailto:retreats@yeshekhorlousa.com)
 
