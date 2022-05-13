@@ -1,6 +1,6 @@
 # Yeshe Khorlo Cabin Rental Pricing
 
-```Please check for specific cabin <a href="mailto:retreats@yeshekhorlousa.com?subject=Cabin Availability">availability</a>```
+```Please check for specific [cabin availability](retreats@yeshekhorlousa.com?subject=Cabin Availability)```
 
 ## Cabin 1 - W/Electricity
 - [ ] For 1 week: $300
