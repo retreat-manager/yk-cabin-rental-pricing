@@ -2,8 +2,8 @@
 
 ```Please check for specific cabin availability:``` [cabin-availability](mailto:retreats@yeshekhorlousa.com)
 
-```Cabins are not confirmed until payment is made:
-To make payment:``` [cabin payments](https://yeshekhorlousa.com/donations-and-payments/) (select donation type as ```cabin rental``` )
+```Cabins are not confirmed until payment is made:```
+To make payment: [cabin payments](https://yeshekhorlousa.com/donations-and-payments/) (select donation type as ```cabin rental``` )
 
 ## Cabin 1 - W/Electricity
 - [ ] For 1 week: $300
