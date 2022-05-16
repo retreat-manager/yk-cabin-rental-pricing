@@ -20,3 +20,11 @@ To make payment: [cabin payments](https://yeshekhorlousa.com/donations-and-payme
 - [ ] For longer times, please contact the [caretaker](mailto:retreats@yeshekhorlousa.com)
 
 [//]: # (daily price is $20 if not a full week)
+
+## Payment Details:
+- [ ] Payment in Full is required to reserve a cabin
+- [ ] ```45 days or more``` from start date of retreat: cancellations maybe be made and refunded in full.
+- [ ] ```45 day or less``` from start date of retreat: credit towards a future retreat may be given in lieu of a refund.
+- [ ] A $50 service fee will be deducted from a refund for all cancellations.
+- [ ] A schedule change made within ```45 days``` of the start of the retreat may result in credit towards a future reteat.
+- [ ] Cancellation: In an emergency, we may have to cancel your retreat. If we have to cancel your retreat and payment has been made, you will receive a full refund for any or all un-used time.
