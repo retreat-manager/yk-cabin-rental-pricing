@@ -6,7 +6,7 @@
 To make payment: [cabin payments](https://yeshekhorlousa.com/donations-and-payments/) (select donation type as ```cabin rental``` )
 
 ## Cabin ```1``` (W/Electricity)
-- [ ] For 1 week: $300
+[ ] For 1 week: $300
 - [ ] For 2 weeks: $400
 - [ ] For 3 weeks: $500
 - [ ] For 1 month: $600
