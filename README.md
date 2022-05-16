@@ -27,4 +27,4 @@ To make payment: [cabin payments](https://yeshekhorlousa.com/donations-and-payme
 - [ ] ```45 day or less``` from start date of retreat: credit towards a future retreat may be given in lieu of a refund.
 - [ ] For all cancellations, A $50 service fee will be deducted from any refund.
 - [ ] A schedule change made within ```45 days``` of the start of the retreat may result in credit towards a future reteat.
-- [ ] Cancellation: In an emergency, we may have to cancel your retreat. If we have to cancel your retreat and payment has been made, you will receive a full refund for any or all un-used time.
+- [ ] Cancellations made by Yeshe Khorlo: In an emergency, we may have to cancel your retreat. If we have to cancel your retreat and payment has been made, you will receive a full refund for any or all un-used time.
