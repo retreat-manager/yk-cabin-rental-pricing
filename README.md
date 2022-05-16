@@ -19,4 +19,4 @@ To make payment: [cabin payments](https://yeshekhorlousa.com/donations-and-payme
 - [ ] For 1 month: $550
 - [ ] For longer times, please contact the [caretaker](mailto:retreats@yeshekhorlousa.com)
 
-[//]: # (This may be the most platform independent comment)
+[//]: # (daily price is $20 if not a full week)
