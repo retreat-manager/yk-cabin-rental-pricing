@@ -21,7 +21,7 @@ To make payment: [cabin payments](https://yeshekhorlousa.com/donations-and-payme
 
 [//]: # (daily price is $20 if not a full week)
 
-## Payment Details:
+### Payment Details:
 - [ ] Payment in Full is required to reserve a cabin
 - [ ] ```45 days or more``` from start date of retreat: cancellations maybe be made and refunded in full.
 - [ ] ```45 day or less``` from start date of retreat: credit towards a future retreat may be given in lieu of a refund.
