@@ -23,7 +23,7 @@ To make payment: [cabin payments](https://yeshekhorlousa.com/donations-and-payme
 
 > All cabins have a gas stove, a fire place and an outhouse.
 
-> All cabins, except cabin 3, have refridgerators. Cabin 3 has coolers or use of fridge in shed.
+> All cabins, except cabin 3, have refridgerators. Cabin 3 has a cooler or use of the fridge in the shed.
 
 ### Payment Details:
 - Payment in Full is required to reserve a cabin
