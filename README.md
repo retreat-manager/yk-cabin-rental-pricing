@@ -21,9 +21,9 @@ To make payment: [cabin payments](https://yeshekhorlousa.com/donations-and-payme
 
 [//]: # (daily price is $20 if not a full week)
 
-> All cabins have a gas stove, a fire place and an outhouse.
+> All cabins have a propane cooking stove, a wood-burning stove and an outhouse.
 
-> All cabins, except cabin 3, have refridgerators. Cabin 3 has a cooler and use of the fridge in the shed (all cabins can use fridge in shed).
+> All cabins have refridgerators and you may also use the fridge in the shed (all cabins share the use of this fridge).
 
 ### Payment Details:
 - Payment in Full is required to reserve a cabin
