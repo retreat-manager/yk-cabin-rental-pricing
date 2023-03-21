@@ -12,6 +12,13 @@ To make payment: [cabin payments](https://yeshekhorlousa.com/donations-and-payme
 - For 1 month: $600
 - For longer times, please contact the [Retreat Manager](mailto:admin@yeshekhorlousa.com?subject=cabin-inquiry)
 
+## Cabin ```3``` (No electricity) 
+- For 1 week: $250
+- For 2 weeks: $350
+- For 3 weeks: $450
+- For 1 month: $550
+- For longer times, please contact the [Retreat Manager](mailto:admin@yeshekhorlousa.com?subject=cabin-inquiry)
+
 ## Cabin ```4``` (W/Solar power) 
 - For 1 week: $250
 - For 2 weeks: $350
