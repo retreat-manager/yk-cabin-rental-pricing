@@ -11,7 +11,6 @@ Note: Cabin 2 is currently unavailable.
 - For 2 weeks: $450
 - For 3 weeks: $550
 - For 1 month: $650
-- For longer times, please contact the [Retreat Manager](mailto:admin@yeshekhorlousa.com?subject=cabin-inquiry)
 
 ## Cabin ```2``` (currently unavailble) 
 
@@ -20,20 +19,18 @@ Note: Cabin 2 is currently unavailable.
 - For 2 weeks: $350
 - For 3 weeks: $450
 - For 1 month: $550
-- For longer times, please contact the [Retreat Manager](mailto:admin@yeshekhorlousa.com?subject=cabin-inquiry)
 
 ## Cabin ```4``` (W/Solar power) 
 - For 1 week: $300
 - For 2 weeks: $400
 - For 3 weeks: $500
 - For 1 month: $600
-- For longer times, please contact the [Retreat Manager](mailto:admin@yeshekhorlousa.com?subject=cabin-inquiry)
 
-[//]: # (daily price is $20 if not a full week)
+[//]: # (daily price is $25 if not a full week)
 
 > All cabins have a propane cooking stove, a wood-burning stove and an outhouse.
 
-> All cabins have refridgerators and you may also use the fridge in the shed (all cabins share the use of this fridge).
+> All cabins have refridgerators (except cabin 3) and you may also use the fridge in the shed (all cabins share the use of this fridge).
 
 ### Payment Details:
 - Payment in Full is required to reserve a cabin
