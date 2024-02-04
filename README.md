@@ -1,10 +1,9 @@
 # Yeshe Khorlo Cabin Rental Pricing
 
-```Please check for specific cabin availability:``` [cabin-availability](mailto:admin@yeshekhorlousa.com?subject=cabin-availability)
+```Please check for specific cabin availability in your inquiry. 
 
-```Cabins are not confirmed until payment is made:```
-To make payment: [cabin payments](https://yeshekhorlousa.com/donations-and-payments/) (select donation type as ```cabin rental``` )
-Note: Cabin 2 is currently unavailable. 
+```Cabins are not confirmed until payment is made online. 
+To make payment: 
 
 ## Cabin ```1``` (W/Electricity)
 - For 1 week: $350
