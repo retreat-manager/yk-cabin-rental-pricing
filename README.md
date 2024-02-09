@@ -25,7 +25,7 @@ To make payment:
 - For 3 weeks: $500
 - For 1 month: $600
 
-[//]: # (daily price is $25 if not a full week)
+[//]: # (daily price is $30 if not a full week)
 
 > All cabins have a propane cooking stove, a wood-burning stove and an outhouse.
 
